@@ -1,4 +1,4 @@
-```markdown
+
 # 🎮 OverTheWire: Bandit — Полное руководство на русском
 
 > 🐧 Wargame для изучения Linux и работы в терминале.
